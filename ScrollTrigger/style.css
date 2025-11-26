@@ -1,0 +1,35 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+#page1 {
+    height: 100%;
+    width: 100%;
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#page2 {
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#page3 {
+    height: 100%;
+    width: 100%;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#box {
+    height: 250px;
+    width: 250px;
+    background-color: blue;
+}
